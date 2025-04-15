@@ -4,7 +4,6 @@
 import sys
 import math
 
-
 # decommenta le due righe seguenti se vuoi leggere/scrivere da file
 sys.stdin = open('C:\\Users\\Simon\\Desktop\\olympiads\\math\\input.txt')
 sys.stdout = open('output.txt', 'w')
